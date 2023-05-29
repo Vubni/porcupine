@@ -6,11 +6,11 @@
 using namespace std;
 
 int main(){
-    static const char* ACCESS_KEY = "F3/GRp7wSGgVg3HFj6Lnh+0cmYvIj/FDWlHEu4UcLRUFpmpfJwoGuw==";
+    static const char* ACCESS_KEY = "******lHEu4UcLRUFpmpfJwoGuw==";
 
 
-    const char *model_file_path = "C:/Users/egora/Desktop/C++Bot/porcupine_params.pv";
-    const char *keyword_file_path = "C:/Users/egora/Desktop/C++Bot/jarvis_windows.ppn";
+    const char *model_file_path = "./porcupine_params.pv";
+    const char *keyword_file_path = "./jarvis_windows.ppn";
     const float sensitivity = 0.5f;
 
 
