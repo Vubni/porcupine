@@ -1,0 +1,3 @@
+C:/Users/egora/Desktop/C++Bot/build/CMakeFiles/audioBot.dir
+C:/Users/egora/Desktop/C++Bot/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/egora/Desktop/C++Bot/build/CMakeFiles/ZERO_CHECK.dir
