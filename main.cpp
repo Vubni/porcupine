@@ -36,7 +36,7 @@ int main(){
             // error handling logic
         }
         if (keyword_index != -1) {
-            cout << "Hello Gitler";
+            cout << "Hello";
         }
     }
 
